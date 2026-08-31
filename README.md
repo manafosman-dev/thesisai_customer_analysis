@@ -11,5 +11,3 @@ APA 7 is the most commonly used citation style.
 Computer Science and Economics are among the most common fields of study.
 
 The analysis was performed using Python, Pandas, Matplotlib, and Seaborn
-
-link for html report : 
